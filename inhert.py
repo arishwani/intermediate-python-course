@@ -1,5 +1,5 @@
 
-
+# This is code for classes and inhertances 
 class Car:
 
 
